@@ -29,3 +29,4 @@ Covers 7,000+ customer records, including details on tenure, contract types, pay
 Weekly aggregated metrics generated for trend tracking and churn analysis.
 
 Applied RFM segmentation and churn prediction over transactional behavior to provide deeper retention insights.
+https://github.com/harshugptaa/Customer-Retention-Insights-Dashboard-/blob/main/Customer%20Retention%20Insights%20Dashboard%20%E2%80%93%20Telecom%20Sector.png
